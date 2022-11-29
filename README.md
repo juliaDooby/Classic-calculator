@@ -1,2 +1,3 @@
-# Classic-Calculator
-Classic-Calculator
+# Classic calculator
+
+Classic-calculator

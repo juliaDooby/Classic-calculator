@@ -1,5 +1,5 @@
 
-### 'Классический калькулятор' / 'Classic calculator'
+### Классический калькулятор / Classic calculator
 
 ---
 

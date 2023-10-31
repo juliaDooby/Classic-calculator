@@ -1,18 +1,20 @@
 
 <!-- Сменить -->
 
-### Классический калькулятор / Classic calculator
+## Classic calculator
 
-  [Посмотрите сами](https://juliadooby.github.io/Classic-calculator/)
-  
+<div align="center"><img src="" width="100%" height="20%"></img></div>
+
+  [demo](https://juliadooby.github.io/Classic-calculator/)
 ---
+<!--
+ ### Development: 
 
-### Стек / Stack: 
+* The calculator calculates the total cost of the trip and displays information in the order field  
+---
+-->
+### Technologies Used:
 
 * HTML
 * CSS
 * Javascript 
-
----
-
-

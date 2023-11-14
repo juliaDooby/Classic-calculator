@@ -3,7 +3,7 @@
 
 ## Classic calculator
 
-<div align="center"><img src="https://github.com/juliaDooby/Classic-calculator/blob/main/classic_calc.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Classic-calculator/blob/main/classic_calc.JPG" width="50%" height="20%"></img></div>
 
   [demo](https://juliadooby.github.io/Classic-calculator/)
 ---
